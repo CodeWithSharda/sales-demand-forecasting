@@ -38,14 +38,17 @@ It uses **Python, Pandas, NumPy, Scikit-learn, and Matplotlib/Seaborn** for data
 ```python -m venv venv
 venv\Scripts\activate   # On Windows
 source venv/bin/activate  # On Mac/Linux
-
+```
 3. Install dependencies:
+```
 pip install -r requirements.txt
-
+```
 📊 Usage
 
 Run the Jupyter Notebook:
+```
     jupyter notebook
+```
 Open sales_forecasting.ipynb and execute the cells step by step.
 
 You will see:
