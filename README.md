@@ -70,6 +70,17 @@ You will see:
 ### 30-Day Forecast
 ![Forecast Preview](assets/forecast_preview.png)
 
+---
+
+## 📊 Model Performance Comparison
+
+| Model               | MAE (Mean Absolute Error) | RMSE (Root Mean Squared Error) |
+|----------------------|---------------------------|--------------------------------|
+| Linear Regression    | 38.10                     | 43.62                          |
+| Random Forest        | 43.94                     | 51.35                          |
+
+👉 *Random Forest generally outperforms Linear Regression by capturing non-linear sales patterns better.*
+
 
 ## 🧑‍💻 Tech Stack
 
