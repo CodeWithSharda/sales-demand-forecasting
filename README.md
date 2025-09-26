@@ -22,7 +22,8 @@ It uses **Python, Pandas, NumPy, Scikit-learn, and Matplotlib/Seaborn** for data
 ├── sales_forecasting.ipynb # Jupyter Notebook with full workflow
 ├── .gitignore # Ignore unnecessary files
 ├── LICENSE # MIT License
-└── README.md # Project documentation (this file)```
+└── README.md # Project documentation (this file)
+```
 
 
 ---
