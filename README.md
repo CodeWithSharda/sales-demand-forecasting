@@ -61,8 +61,11 @@ You will see:
 ### Sales Trend
 ![Sales Trend](assets/sales_trend.png)
 
-### Actual vs Predicted
+### Linear Regression - Actual vs Predicted
 ![Actual vs Predicted](assets/actual_vs_predicted.png)
+
+### Random Forest – Actual vs Predicted
+![Random Forest](assets/random_forest_vs_actual.png)
 
 ### 30-Day Forecast
 ![Forecast Preview](assets/forecast_preview.png)
