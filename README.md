@@ -43,7 +43,7 @@ source venv/bin/activate  # On Mac/Linux
 ```
 pip install -r requirements.txt
 ```
-📊 Usage
+## 📊 Usage
 
 Run the Jupyter Notebook:
 ```
@@ -56,12 +56,12 @@ You will see:
 * Actual vs Predicted graphs
 * A 30-day sales forecast
 
-📸 Sample Output
+## 📸 Sample Output
 
 Sales Trend
 Forecast (Next 30 Days)
 
-🧑‍💻 Tech Stack
+## 🧑‍💻 Tech Stack
 
 * Python 3.x
 * Pandas
@@ -70,7 +70,7 @@ Forecast (Next 30 Days)
 * Seaborn
 * Scikit-learn
 
-📜 License
+## 📜 License
 
 This project is licensed under the MIT License
 
