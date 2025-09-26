@@ -59,7 +59,9 @@ You will see:
 ## 📸 Sample Output
 
 Sales Trend
-Forecast (Next 30 Days)
+
+![Forecast Preview](assets/forecast_preview.png)
+
 
 ## 🧑‍💻 Tech Stack
 
