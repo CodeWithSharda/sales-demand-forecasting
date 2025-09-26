@@ -79,8 +79,7 @@ You will see:
 | Linear Regression    | 38.10                     | 43.62                          |
 | Random Forest        | 43.94                     | 51.35                          |
 
-👉 *Random Forest generally outperforms Linear Regression by capturing non-linear sales patterns better.*
-
+**Takeaway**: We compared Linear Regression and Random Forest models; interestingly, Linear Regression achieved lower error on this dataset, demonstrating the importance of testing multiple approaches.
 
 ## 🧑‍💻 Tech Stack
 
