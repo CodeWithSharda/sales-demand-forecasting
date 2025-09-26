@@ -58,9 +58,13 @@ You will see:
 
 ## 📸 Sample Output
 
-Sales Trend
+### Sales Trend
+![Sales Trend](assets/sales_trend.png)
 
-### Sales Forecast
+### Actual vs Predicted
+![Actual vs Predicted](assets/actual_vs_predicted.png)
+
+### 30-Day Forecast
 ![Forecast Preview](assets/forecast_preview.png)
 
 
