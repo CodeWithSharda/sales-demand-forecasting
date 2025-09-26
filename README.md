@@ -60,6 +60,7 @@ You will see:
 
 Sales Trend
 
+### Sales Forecast
 ![Forecast Preview](assets/forecast_preview.png)
 
 
