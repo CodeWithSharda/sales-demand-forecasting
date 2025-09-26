@@ -32,20 +32,20 @@ It uses **Python, Pandas, NumPy, Scikit-learn, and Matplotlib/Seaborn** for data
 1. Clone the repository:
    ```bash
    git clone https://github.com/CodeWithSharda/sales-demand-forecasting.git
-   cd sales-demand-forecasting```
+   cd sales-demand-forecasting
 
 2. Create and activate a virtual environment:
 ```python -m venv venv
 venv\Scripts\activate   # On Windows
-source venv/bin/activate  # On Mac/Linux```
+source venv/bin/activate  # On Mac/Linux
 
 3. Install dependencies:
-```pip install -r requirements.txt```
+pip install -r requirements.txt
 
 📊 Usage
 
 Run the Jupyter Notebook:
-    ```jupyter notebook```
+    jupyter notebook
 Open sales_forecasting.ipynb and execute the cells step by step.
 
 You will see:
